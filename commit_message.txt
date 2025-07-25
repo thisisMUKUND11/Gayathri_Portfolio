@@ -1,9 +1,11 @@
-Initial portfolio setup and customization
+Refactor: Update theme with new font and color scheme
 
-This commit includes:
-- Removal of 'Counters', 'Services', and 'Testimonials' sections.
-- Addition of a 'Download Resume' section.
-- Font changed to Times New Roman.
-- Updated navigation links.
-- Integration of internship and contact details.
-- Addition of GitHub and LinkedIn icons/links.
+This commit updates the portfolio's visual theme:
+- **Font:** Changed to 'Roboto' for a modern and clean look.
+- **Color Scheme:** Implemented a new palette with:
+  - Primary Background: #f8f9fa (light gray)
+  - Accent Color: #007bff (professional blue)
+  - Header/Footer Background: #343a40 (dark gray/black)
+  - Text Color: #343a40 (dark gray)
+- Removed old Google Fonts link from `index.html`.
+- Updated all relevant CSS properties in `style.css` to reflect the new theme.
