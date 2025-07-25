@@ -1,0 +1,9 @@
+Initial portfolio setup and customization
+
+This commit includes:
+- Removal of 'Counters', 'Services', and 'Testimonials' sections.
+- Addition of a 'Download Resume' section.
+- Font changed to Times New Roman.
+- Updated navigation links.
+- Integration of internship and contact details.
+- Addition of GitHub and LinkedIn icons/links.
